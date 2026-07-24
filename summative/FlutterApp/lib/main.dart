@@ -16,6 +16,7 @@ class CropYieldApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: const Color(0xFF2E7D32)),
         useMaterial3: true,
+        fontFamily: 'serif',
       ),
       home: const PredictionPage(),
     );
