@@ -97,4 +97,4 @@ pip install -r requirements.txt
 uvicorn prediction:app --reload
 ```
 
-Then open http://127.0.0.1:8000/docs
+Then open https://linear-regression-model-26zx.onrender.com/docs
