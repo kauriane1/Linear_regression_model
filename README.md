@@ -98,3 +98,6 @@ uvicorn prediction:app --reload
 ```
 
 Then open https://linear-regression-model-26zx.onrender.com/docs
+
+The demo video: https://drive.google.com/file/d/1w_0z_W-OUGnhUq7o3od-IQwUuIUzYhHx/view?usp=sharing
+
